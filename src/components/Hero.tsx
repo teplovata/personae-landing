@@ -32,7 +32,6 @@ const Hero = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              
               {/* Декоративные элементы вокруг */}
               <div className="absolute -top-4 -right-4 w-16 h-16 bg-indigo-200 rounded-full opacity-50 blur-md"></div>
               <div className="absolute -bottom-4 -left-4 w-20 h-20 bg-purple-200 rounded-full opacity-50 blur-md"></div>
