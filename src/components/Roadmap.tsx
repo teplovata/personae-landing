@@ -1,5 +1,5 @@
-import { Tabs, List, Tag, Button, Space, message } from 'antd'
-import { CheckCircleOutlined, ClockCircleOutlined, StarOutlined } from '@ant-design/icons'
+import { Tabs, List, Tag, Button } from 'antd'
+import { CheckCircleOutlined, ClockCircleOutlined } from '@ant-design/icons'
 
 const Roadmap = () => {
   const currentFeatures = [
